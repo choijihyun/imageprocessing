@@ -1,0 +1,7 @@
+﻿  DCT_QUAN.cpp
+c:\users\user\desktop\4-1\imageprocessing\project1\project1\dct_quan.cpp(18): warning C4101: 'cnt1' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\4-1\imageprocessing\project1\project1\dct_quan.cpp(18): warning C4101: 'cv' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\4-1\imageprocessing\project1\project1\dct_quan.cpp(18): warning C4101: 'cu' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\4-1\imageprocessing\project1\project1\dct_quan.cpp(18): warning C4101: 'cnt2' :참조되지 않은 지역 변수입니다.
+  Project1.vcxproj -> C:\Users\USER\Desktop\4-1\ImageProcessing\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\USER\Desktop\4-1\ImageProcessing\Project1\Debug\Project1.pdb (Partial PDB)
